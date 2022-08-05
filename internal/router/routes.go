@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/pavel-one/TextRecognition/internal/responses"
+	"github.com/pavel-one/GoStarter/internal/responses"
 	"net/http"
 )
 
